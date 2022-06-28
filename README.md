@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lucas Tundo
 
-- 💻 Hoje gosto de criar sites
+- 💻 Estudando sobre front end
 - 📝 Cursando Ciência da computação
 - 🎮 Buscando aprender sobre fullstack
 
