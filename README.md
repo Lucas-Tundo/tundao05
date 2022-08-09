@@ -1,8 +1,9 @@
 ## Olá! Eu sou Lucas Tundo
 
 - 💻 Estudando sobre front end
+- 📖 Estudando React
 - 📝 Cursando Ciência da computação
-- 🎮 Buscando aprender sobre fullstack
+- 💡 Buscando aprender sobre fullstack
 
 ##
 
