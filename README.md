@@ -1,9 +1,8 @@
 ## Olá! Eu sou Lucas Tundo
 
-- 💻 Estudando sobre front end
-- 📖 Estudando React
+- 💻 Estudando sobre Desenvolvimento de Software
+- 📖 Estudando C#
 - 📝 Cursando Ciência da computação
-- 💡 Buscando aprender sobre fullstack
 
 ##
 
@@ -26,6 +25,6 @@
   <div> 
   <a href="https://instagram.com/lucastundo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucastundo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-tundo-a344a420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-tundo-34b8b92a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5514998424365" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     </div>
