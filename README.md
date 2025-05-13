@@ -7,7 +7,7 @@
 ##
 
 <div>
-  <a href = "https://github.com/tundao05">
+  <a href = "https://github.com/Lucas-Tundo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tundao05&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tundao05&layout=compact&langs_count=7&theme=omni"/>
 </div>
